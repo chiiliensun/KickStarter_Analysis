@@ -4,10 +4,16 @@
  
 1. When looking at the data provided, and using the calculated percentage of successful, live, failed versus canceled, the analysis can conclude that certain categories had higher success rates versus failure rates. The most compelling understanding of this data is by category, Journalism has the highest percentage (100%) to be canceled. Along with understanding there were no Journalism kicker-starters that were successful. The category of Music can be predicted to have the most success due to the retrospective look of 77% that were successful. Essentially this retrospect of this data set could assist potential kick-starter projects to predict if they would be successful in their venture. Failure percentage of each category is relatively high in comparison of successful for most categories with the exception of Music. The highest failure rate can be seen through the category of Food, 70%. With this data set it could be said that potential entrepreneurs can use this to evaluate their chances of success versus failure by category. Or use the failure rates for each category to decide on whether using this type of platform to start one’s business is beneficial for their circumstances. 
 
+ ![alt text](Screenshot1_Outcomes.png)
+
 2. This data set can also look at duration aspect of these past projects or whether the time of each year that projects were started, could help determine the success, failure or cancelation rates. The most interesting understanding of this can be seen when comparing how these projects fare over a year’s time in the chart below.The cancelation of the projects are relatively comparable for the entire year but the interesting data can be seen by just looking at the success throughout the year. There is a dramatic spike in May when compared to December. Which can conclude that more people are willing to contribute to their projects when not competing with the holiday season and present shopping. Essentially this can assist entrepreneurs, again, to decide when they would want to launch their projects through this platform that would increase their probability of success. 
+
+![alt text](Screenshot2_Years.png)
 
 3. After using the major categories and understanding which types of projects are more likely to fail versus obtain success, and using the timeframe analysis to understand when projects have a higher success rate, one can look at further sub-categories. 
 The most successful sub-category can be seen by this graph and over 40 sub-categories: Plays were exponentially more successful. The following sub-categories also were 100% successful; classical music, documentary, electronic music, hardware, metal, nonfiction, pop, radio & podcasts, rock, shorts, small batch, tabletop games, and television. Where the following sub-categories were found to be 100% failed; web, video games, restaurants, places, people, nature, mobile games, jazz, gadgets, fiction, faith, drama, children’s books and animation. 
+
+![alt text](Screenshot3_SubCat.png)
 
 ## Limitations
 
