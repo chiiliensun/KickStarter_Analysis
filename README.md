@@ -23,6 +23,8 @@ The most successful sub-category can be seen by this graph and over 40 sub-categ
 
 3. Another limitation is the data set is not large enough in each category or sub-category to fully be analyzed in comparison. As stated above, Journalism only had 24 campaigns started. In comparison of Theater had over 1300 campaigns started. This is a large difference which makes analysis difficult to make concrete or subjective conclusions. 
 
+![alt text](Screenshot4_Limits.png)
+
 ## Possible Further Analysis?
 
 What was not mentioned in the prior conclusions nor the limitations, is that this data set encompasses various different countries AND different currencies. It would be interesting and possible to make comparison by Country and/or by currency. This comparison can also be drilled down to different states for U.S.A. and make comparisons by region, state or city. State and City would have to further obtain where these campaigns started in the U.S. 
@@ -32,5 +34,7 @@ Another possible analysis could further investigate what the cancellation causes
 The last interesting possible analysis would be further investigation on how each successful versus failed campaigns advertised their projects. Which can be correlated with the below BONUS Analysis. Looking at the difference in backers for each category of failed and successful, the difference is stark and could possibly be beneficial to understand how each of these campaigns advertised. Did the successful campaigns have more advertisement in media, their community, how wealthy was the community they advertised to, and the questions go on. For example, in the parent category of Music, did these campaigns target their own fellow musicians? Did the kick-starter campaigns have assistance from within their own industry and fund raising done within a wealthier group? Or possibly a more wealthy musician backer use their own platform to advertise for a much smaller kick-starter music campaign? 
 
 BONUS Analysis
+
+![alt text](Screenshot5_Bonus.png)
 
 The variability between successful and failed campaigns on mean or median backers shows the stark contrast. When looking at the raw data of backers for successful campaigns, the variability is much higher within this category. For example, one successful campaign had 2436 backers but another successful campaign had only 50 backers. So this type of data set can be useful but it also does not account for how much each backer contributed versus how much the goal was set at. Including this type of data could make the median or mean backers more sense. 
