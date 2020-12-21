@@ -1,5 +1,5 @@
-# KickStarter_Analysis
- 3 Major Conclusions
+# KickStarter Analysis
+## 3 Major Conclusions
  
  
 -When looking at the data provided, and using the calculated percentage of successful, live, failed versus canceled, the analysis can conclude that certain categories had higher success rates versus failure rates. The most compelling understanding of this data is by category, Journalism has the highest percentage (100%) to be canceled. Along with understanding there were no Journalism kicker-starters that were successful. The category of Music can be predicted to have the most success due to the retrospective look of 77% that were successful. Essentially this retrospect of this data set could assist potential kick-starter projects to predict if they would be successful in their venture. Failure percentage of each category is relatively high in comparison of successful for most categories with the exception of Music. The highest failure rate can be seen through the category of Food, 70%. With this data set it could be said that potential entrepreneurs can use this to evaluate their chances of success versus failure by category. Or use the failure rates for each category to decide on whether using this type of platform to start one’s business is beneficial for their circumstances. 
